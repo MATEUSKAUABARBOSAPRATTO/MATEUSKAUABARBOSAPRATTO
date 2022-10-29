@@ -1,8 +1,7 @@
-- 👋 olá me chamo MATEUS KAUABARBOSA PRATTO
-- 👀 estou interessado em estudar tecnologia
-- 🌱 estou aprendendo sobre informática 
-- 💞️ estou preocurando elaborar um jogo 
-- 📫 como chegar até mim mateus.pmateusescola.pr.gov.br
+- 👋 olá me chamo MATEUS PRATTO
+- 📚estudo atualmente no CCM Ângelo Antônio benedet 
+- 🔍1°ano do ensino médio.
+- 💚 15 anos  
 
 <!---
 MATEUSKAUABARBOSAPRATTO/MATEUSKAUABARBOSAPRATTO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
